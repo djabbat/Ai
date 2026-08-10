@@ -1,0 +1,24 @@
+აი Phrasebook (აი → EN)
+========================
+
+ი 0 ა            — I am.
+ე 0 ა?           — Are you?
+იე 0 ა           — We are.
+ვბ 0 ა           — A good human exists.
+ი 0 ლ 0 ზ        — I know this thing.
+დ 0 ლ            — (I do) not know.
+ი 0 დ 0 ლ        — I do not know.
+უ 0 ბ            — This is good.
+უ 0 გ            — This is bad.
+თბ 0 ა           — It is a good time.
+კბ 0 ა           — It is a good place.
+კი 0 ა 0 კბ      — My home is a good place.
+ორ!              — Speak!
+ლ!               — Know!
+დ 0 ო            — Silence (not-speak).
+ი 0 ლ 0 ე        — I know you.
+ე 0 ლ 0 ი?       — Do you know me?
+ვბ 0 ო 0 ბ       — A good human speaks good.
+ვგ 0 ო 0 გ       — An evil human speaks evil.
+თმ 0 ზმ          — Much time, many things (busy life).
+ი 0 ა 0 ლ 0 ა    — I know that I exist.
