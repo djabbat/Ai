@@ -15,9 +15,9 @@
 ├── MEMORY.md            — decision history
 ├── README.md            — public description (EN)
 ├── LICENSE              — CC0 1.0
+├── _archive/ru/         — archived Russian versions (translated to EN)
 ├── docs/
 │   ├── LANG.md          — full language spec (EN)
-│   ├── LANG.ru.md       — language spec (RU, original)
 │   └── PHONEMES.md      — phoneme system (from Desktop research)
 └── samples/
     ├── manifesto.txt    — language manifesto (აი + glosses)

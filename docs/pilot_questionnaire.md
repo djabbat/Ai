@@ -2,37 +2,36 @@
 
 **Part of pilot_protocol.md | Version 1.0 | 2026-08-10**
 
-> FR/ES/AR/ZH/GE translations: same structure, translated items.
+> Full per-language versions: docs/questionnaires/ (EN FR ES RU AR ZH KA).
 
 ---
 
-## 0. Consent (EN / RU)
+## 0. Consent
 
-**EN:** I am 18+; I understand that data is anonymized; I can withdraw at any time; I consent to participation.
-**RU:** Мне 18+; я понимаю, что данные анонимизированы; я могу отказаться в любой момент; я согласен участвовать.
+I am 18+; I understand that data is anonymized; I can withdraw at any time; I consent to participation.
 
-☐ Agree / Согласен
+☐ Agree
 
 ---
 
 ## 1. Demographics
 
-| # | EN | RU |
+| # | Item |
 |---|----|----|
-| 1 | Age | Возраст |
-| 2 | Gender | Пол |
-| 3 | First language | Родной язык |
-| 4 | Other languages (fluency) | Другие языки (уровень) |
-| 5 | Education level | Образование |
-| 6 | Prior exposure to constructed languages? | Знакомы ли с искусственными языками? |
+| 1 | Age |
+| 2 | Gender |
+| 3 | First language |
+| 4 | Other languages (fluency) |
+| 5 | Education level |
+| 6 | Prior exposure to constructed languages? |
 
 ---
 
 ## 2. Part A — Perception (H1)
 
-**Instruction (EN):** You will see 20 short phrases. Rate each on simplicity (how easy it looks to learn), 1 = very complex, 7 = very simple.
+**Instruction:** You will see 20 short phrases. Rate each on simplicity (how easy it looks to learn), 1 = very complex, 7 = very simple.
 
-**Инструкция (RU):** Вы увидите 20 коротких фраз. Оцените простоту каждой (насколько легко её учить): 1 = очень сложно, 7 = очень просто.
+
 
 | # | Phrase | Lang | Simplicity 1–7 |
 |---|--------|:----:|:--------------:|
@@ -61,11 +60,11 @@
 
 ---
 
-## 3. Part B — Transparency of roots (H2)
+## 3. Part B — Root transparency (H2)
 
-**Instruction (EN):** You will see a symbol and four possible meanings. Choose the most likely. Guessing is allowed.
+**Instruction:** You will see a symbol and four possible meanings. Choose the most likely. Guessing is allowed.
 
-**Инструкция (RU):** Вы увидите символ и четыре варианта значения. Выберите наиболее вероятный. Можно угадывать.
+
 
 | # | Symbol | A | B | C | D | Answer |
 |---|:------:|----|----|----|----|:------:|
@@ -113,5 +112,6 @@
 
 ## 5. Debrief
 
-**EN:** This study tests whether minimal constructed languages are perceived as simple, whether NSM-based symbols are cross-culturally transparent, and whether learnability differs by native language. Hypothesis was withheld during Part B.
-**RU:** Исследование проверяет: воспринимаются ли минимальные искусственные языки как простые, прозрачны ли символы на основе семантических примитивов для разных культур, и зависит ли скорость обучения от родного языка. Цель части B не раскрывалась до конца.
+
+This study tests whether minimal constructed languages are perceived as simple, whether NSM-based symbols are cross-culturally transparent, and whether learnability differs by native language. Hypothesis was withheld during Part B.
+
