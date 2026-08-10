@@ -85,6 +85,10 @@ Common world diphthongs get single symbols intuitively resembling letters of the
 
 Diacritic logic: ¯ macron = long/tense (Ǣ Ī); ˘ breve = short/neutral (Ꝏ̆); ̣ dot below = gliding to schwa (Ḭ Ẹ Ụ); ̨ ogonek = movement of second vowel (Ų).
 
-## 5. Full phoneme inventory for აი extensions
+## 5. Core: 155 signs = full standard IPA
 
-225 one-symbol phonemes (vowels → nasalized → long → pulmonic consonants → clicks → implosives → ejectives → palatalized → labialized → pharyngealized → aspirated → tones) + 272 diphthongs. Reserve for proper names and future loanwords. Collision-free (script-verified).
+The 155-sign core is exactly the standard IPA chart: 107 letters + 31 diacritics + 17 suprasegmentals = 155 (International Phonetic Association, 2018). 143 signs assigned to Toki Pona words; 12 reserve.
+
+## 6. Extended inventory for აი
+
+Beyond the 155-sign core: 225 one-symbol phonemes + 272 diphthongs (reserve for proper names and future loanwords). Collision-free (script-verified).

@@ -11,7 +11,7 @@ The name comes from the first two vowels: **ა** (to exist) + **ი** (I) = *"I
 
 ## 1. Philosophy
 
-- **14 roots** — like the 14 phonemes. No extra words.
+- **155 one-symbol signs** — the core equals the **full standard IPA set** (IPA Chart: 107 letters + 31 diacritics + 17 suprasegmentals = 155). 143 signs are assigned to Toki Pona words by frequency; 12 remain in reserve. No extra words.
 - **One symbol = one word = one idea.** Meaning is built by composition (direct concatenation), as in Toki Pona — but even simpler.
 - **Script:** Georgian alphabet (Mkhedruli). Pause between words — **0** (zero-sign).
 - Learnable in minutes. Speaking it means thinking about what matters.
@@ -30,7 +30,9 @@ As in Toki Pona: 9 consonants + 5 vowels. Georgian script.
 
 Syllables: (C)V(N). Stress on first syllable. Pause between words — **0**; sentence end — **00**.
 
-## 3. Vocabulary — 14 roots
+## 3. Vocabulary — 155 signs (full standard IPA)
+
+The core of 155 one-symbol signs equals the full standard IPA set. First 14 roots (Georgian letters):
 
 Each root is a semantic primitive (deliberately different from Toki Pona letter assignments — this is an independent language):
 
@@ -104,11 +106,11 @@ I am. Know good. We are good humans.
 
 | | Toki Pona | აი |
 |---|---|---|
-| Dictionary size | ~120–140 words | **14** |
+| Dictionary size | ~120–140 words | **155** (full IPA) |
 | Phonemes | 14 | 14 |
 | Symbols per word | 1–3 letters | **1** |
 | Grammar | particles li, e, la, pi | position (SVO) + concatenation |
 | Word separator | space | **0** (zero-sign) |
 | Numerals | wan, tu, luka, mute, ale | diphthongs Æ Ꜷ Ǣ Œ Ꝏ… |
 
-*აი — the language of one letter: the whole world in 14 signs.*
+*აი — the language of one letter: the whole world in 155 signs (the full standard IPA).*

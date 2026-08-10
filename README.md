@@ -2,7 +2,7 @@
 
 **აი** ([ai], *Ai*) is a constructed minimalist language in the spirit of Toki Pona — pushed to the extreme: **one word = one phoneme = one symbol**.
 
-The whole vocabulary is **14 roots**. Meaning is built by direct composition. Written in Georgian script (Mkhedruli), words separated by the zero-sign **0**.
+The core is **155 one-symbol signs = the full standard IPA set** (IPA Chart: 107 letters + 31 diacritics + 17 suprasegmentals = 155): 143 signs assigned to Toki Pona words, 12 in reserve. Meaning is built by direct composition. Written in Georgian script (Mkhedruli), words separated by the zero-sign **0**.
 
 ```
 ი 0 ა 0 ლ 0 ბ 0 იე 0 ა 0 ვბ
@@ -15,7 +15,8 @@ I am. Know good. We are good humans.
 - **Learn in minutes** — 14 roots, one grammar rule (SVO + concatenation).
 - **Speak to essentials** — like Toki Pona, but even simpler.
 
-## The 14 roots
+## The core: 155 signs (full standard IPA)
+First 14 (Georgian letters):
 
 | Symbol | Sound | Meaning | | Symbol | Sound | Meaning |
 |:------:|:-----:|---------|---|:------:|:-----:|---------|

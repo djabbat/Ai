@@ -7,7 +7,11 @@
 - Vowels: /a e i o u/ → ა ე ი ო უ
 - Syllables: (C)V(N); stress on first syllable; no tones, no length
 
-## Vocabulary (14 roots)
+## Vocabulary — 155 one-symbol signs (full standard IPA)
+
+**The 155-sign core = the full standard IPA set** (IPA Chart: 107 letters + 31 diacritics + 17 suprasegmentals = 155). 143 signs assigned to Toki Pona words by frequency; 12 in reserve.
+
+### Core roots (first 14, Georgian letters)
 | Symbol | Phoneme | Meaning |
 |:------:|:-------:|---------|
 | ა | /a/ | exist, be |
