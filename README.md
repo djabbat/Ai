@@ -1,5 +1,7 @@
 # აი (Ai) — the one-phoneme language
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23404806.svg)](https://doi.org/10.5281/zenodo.23404806)
+
 **აი** ([ai], *Ai*) is a constructed minimalist language in the spirit of Toki Pona — pushed to the extreme: **one word = one phoneme = one symbol**.
 
 The core is **155 one-symbol signs = the full standard IPA set** (IPA Chart: 107 letters + 31 diacritics + 17 suprasegmentals = 155): 143 signs assigned to Toki Pona words, 12 in reserve. Meaning is built by direct composition. Written in Georgian script (Mkhedruli), words separated by the zero-sign **0**.
