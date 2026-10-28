@@ -1,5 +1,7 @@
 # აი (Ai) — the one-phoneme language
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/djabbat/badge.svg)](https://hub.xerj.org/contributors/djabbat)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23404806.svg)](https://doi.org/10.5281/zenodo.23404806)
 
 **აი** ([ai], *Ai*) is a constructed minimalist language in the spirit of Toki Pona — pushed to the extreme: **one word = one phoneme = one symbol**.
