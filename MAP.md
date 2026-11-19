@@ -28,3 +28,14 @@
 - Research: `~/Desktop/toki_pona_fonemy.md` — Toki Pona phoneme system, Georgian mapping, 255 corpus entries
 - Parent: `~/Desktop/Marketing/` — Marketing umbrella
 - GitHub: https://github.com/djabbat/Ai (public)
+
+## Автоструктура (deep-audit 2026-11-19)
+
+```
+Ai/
+├── .git/
+├── _archive/
+├── docs/
+├── samples/
+├── scripts/
+```

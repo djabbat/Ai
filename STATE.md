@@ -24,3 +24,5 @@
 1. Finish LANG.md (EN) — translate from LANG.ru.md
 2. Create docs/PHONEMES.md
 3. Push first commit to GitHub
+
+- **Deep audit 2026-11-19:** проверено автоматически (deep-audit); подробности — reports deep-audit.
